@@ -4,9 +4,7 @@
     <a href="https://t.me/ngSamurai">
         <img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" />
     </a>
-
-    &nbsp;&nbsp;
-
+&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/alielderov/">
         <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&style=for-the-badge" />
     </a>
