@@ -16,9 +16,14 @@
 
 ----
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuglyakBolgoink&theme=dracula)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuglyakBolgoink&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WuglyakBolgoink&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuglyakBolgoink&show_icons=true&theme=synthwave)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WuglyakBolgoink&layout=compact&theme=synthwave)
+
+
+
 
 ----
 
