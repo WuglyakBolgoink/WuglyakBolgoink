@@ -12,22 +12,20 @@
 
 <br/>
 
-<p>   
-    - 🌱 I’m currently working with
-        - [Angular][angular] / [AngularJS][angularJS]
-        - [cordova][cordova]
-    - 🛠 This help me better work
-        - Docker
-        - GIT, GitLab, [sourcetree][sourcetree]
-        - Jira
-    - 📆 My ToDo's
-        - [NX][nx] - Smart, extensible build framework
-        - [Nest.js][nestJS] - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
-<p/>
+- 🌱 I’m currently working with
+    - [Angular][angular] / [AngularJS][angularJS]
+    - [cordova][cordova]
+- 🛠 This help me better work
+    - Docker
+    - GIT, GitLab, [sourcetree][sourcetree]
+    - Jira
+- 📆 My ToDo's
+    - [NX][nx] - Smart, extensible build framework
+    - [Nest.js][nestJS] - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
 
 <br/>
 
-### How to reach me:
+### How to reach me
     
 - 📨 Email: [info@cyberkatze.de](mailto:info@cyberkatze.de)
 
