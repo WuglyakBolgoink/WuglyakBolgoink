@@ -31,6 +31,10 @@
 
 ----
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=WuglyakBolgoink&column=4&margin-w=15&margin-h=15&theme=matrix)](https://github-profile-trophy.vercel.app/?username=WuglyakBolgoink&column=4&margin-w=15&margin-h=15&theme=matrix)
+
+----
+
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuglyakBolgoink&theme=dracula)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuglyakBolgoink&show_icons=true&theme=synthwave)
