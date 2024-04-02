@@ -12,17 +12,23 @@
 
 <br/>
 
-- 🌱 I’m currently working with
-    - [Angular][angular]     
+- 🌱 I’m working as Frontend Developer
+    - Frameworks
+        - [Angular][angular] (since 2015)
+    - UI Libs
+        - Bootstrap UI
+        - Material UI
+        - Clarity UI
+        - Taiga UI    
 - 🛠 This help me better work
     - 👨‍👩‍👧‍👦
     - and ofc ☕ 🍪 🛌 
     - Docker
     - GIT, GitLab, Jenkins, [sourcetree][sourcetree]
     - Jira, Confluence
-- ☠️ My "long term support" 😄
-    - [cordova][cordova]
-    - [AngularJS][angularJS]
+- ☠️ My **"long term support"** 😄
+    - [cordova][cordova] (since 2013)
+    - [AngularJS][angularJS] (since 2013)
 - 📆 My ToDo's
     - [NX][nx] - Smart, extensible build framework
     - [Nest.js][nestJS] - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
