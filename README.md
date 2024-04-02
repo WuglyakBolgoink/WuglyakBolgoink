@@ -16,18 +16,15 @@
     - [Angular][angular] / [AngularJS][angularJS]
     - [cordova][cordova]
 - 🛠 This help me better work
+    - 👨‍👩‍👧‍👦 and ofc ☕ 🍪 🛌 
     - Docker
-    - GIT, GitLab, [sourcetree][sourcetree]
-    - Jira
+    - GIT, GitLab, Jenkins, [sourcetree][sourcetree]
+    - Jira, Confluence
 - 📆 My ToDo's
     - [NX][nx] - Smart, extensible build framework
     - [Nest.js][nestJS] - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
 
 <br/>
-
-### How to reach me
-    
-- 📨 Email: [info@cyberkatze.de](mailto:info@cyberkatze.de)
 
 ----
 
