@@ -13,13 +13,16 @@
 <br/>
 
 - 🌱 I’m currently working with
-    - [Angular][angular] / [AngularJS][angularJS]
-    - [cordova][cordova]
+    - [Angular][angular]     
 - 🛠 This help me better work
-    - 👨‍👩‍👧‍👦 and ofc ☕ 🍪 🛌 
+    - 👨‍👩‍👧‍👦
+    - and ofc ☕ 🍪 🛌 
     - Docker
     - GIT, GitLab, Jenkins, [sourcetree][sourcetree]
     - Jira, Confluence
+- ☠️ My "long term support" 😄
+    - [cordova][cordova]
+    - [AngularJS][angularJS]
 - 📆 My ToDo's
     - [NX][nx] - Smart, extensible build framework
     - [Nest.js][nestJS] - A progressive Node.js framework for building efficient, reliable and scalable server-side applications
