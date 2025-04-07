@@ -1,7 +1,7 @@
 # Hi there, I'm [Ali Elderov](https://cyberkatze.de)! 👋
 
 <p>
-    <a href="https://t.me/ngSamurai">
+    <a href="https://t.me/ngxSamurai">
         <img align="left" alt="telegram" src="https://img.shields.io/badge/telegram-blue?logo=telegram&style=for-the-badge" />
     </a>
 &nbsp;&nbsp;
